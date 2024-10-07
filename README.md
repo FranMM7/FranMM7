@@ -32,6 +32,6 @@ I'm a passionate **full-stack software developer** specializing in **.NET** tech
 - 💻 As a hobby, I like exploring **Laravel** to compare it with **.NET Core** as a backend framework, constantly learning how different ecosystems approach similar problems.
 
 ## 📫 Get in Touch:
-- [LinkedIn](https://www.linkedin.com/in/FrancisEdgardoMejiaMedina)
+- [LinkedIn]([mejiafrancised/](https://www.linkedin.com/in/mejiafrancised/?locale=en_US))
 - [Email](mailto:francis.mejiamd@gmail.com)
 
