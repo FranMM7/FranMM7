@@ -1,37 +1,88 @@
 # Hey there, I'm Francis 👋
 
-I'm a passionate **full-stack software developer** specializing in **.NET** technologies and **Vue.js**. My focus is on building efficient, scalable, and user-friendly applications with a strong emphasis on enhancing user experience. I’m always eager to learn and tackle new challenges through personal projects and professional work.
+I'm a passionate **full-stack software developer** with a strong focus on **.NET**, **Vue.js**, and **React**. I specialize in building **scalable**, **efficient**, and **user-centric** applications, applying clean architecture and modern development practices across the stack.
+
+---
 
 ## 🔧 Technologies & Tools:
-- **Backend**: C#, ASP.NET Core, .NET (including **WinForms** and **WebForms**), Entity Framework
-- **Frontend**: Vue.js, React, Angular, TypeScript, JavaScript, HTML/CSS, Bootstrap
-- **Databases**: MSSQL, MySQL (with strong SQL expertise)
-- **Tools**: Git, Visual Studio, VS Code, DevExpress (for UI enhancements), Postman, Docker
 
-### Specialized Knowledge:
-- On **WinForms**, I enjoy working with **DevExpress** to provide enhanced user experiences. This has helped me focus on delivering polished, intuitive interfaces in my projects.
-- I also have experience working with **WebForms**, ensuring smooth and maintainable web applications.
-- When it comes to databases, I have a **strong knowledge of SQL**, enabling me to optimize database operations and design efficient systems.
-- On the **front end**, I've worked on projects using **Vue.js**, **React**, and **Angular**, gaining hands-on experience with various JavaScript frameworks.
+### 🖥 Backend:
+
+* **C#, ASP.NET Core (7/8)**, **Azure Functions**
+* **Entity Framework Core**, **Dapper**
+* **Clean Architecture**, **Domain-Driven Design**
+* **REST APIs**, **OAuth 2.0**, **Azure AD (SSO)**
+
+### 🌐 Frontend:
+
+* **Vue 3 + Pinia + TypeScript**
+* **React + Next.js + Tailwind CSS**
+* **TanStack Table**, **AG Grid**
+* **Framer Motion**, **Font Awesome**, **Heroicons**
+
+### 🗃 Databases:
+
+* **PostgreSQL**, **MSSQL**, **MySQL**
+* **EF Migrations**, **SQL Query Optimization**
+
+### 🛠 Tools & Ecosystem:
+
+* **Azure DevOps**, **GitHub**, **CI/CD**
+* **Docker**, **Postman**, **MSAL**, **Make.com**
+* **Visual Studio**, **VS Code**
+
+---
+
+## ⚙️ Specialized Knowledge:
+
+* Experienced in **Clean Architecture** and **microservices** for enterprise-grade apps.
+* Strong skills in **data transformation**, **ESB integrations**, and **message-driven architectures** using **Azure Service Bus**.
+* Built legal tech and healthcare tools involving **role-based access**, **document tracking**, and **smart automation**.
+* Advanced use of **AG Grid** and **TanStack Table** with pagination, sorting, and server-side filtering.
+* Experience integrating third-party APIs like **Salesforce**, **DrChrono**, and **WhatsApp** bots.
+
+---
 
 ## 🌟 Featured Projects:
-- **[QuickFinance](https://github.com/franmm7/QuickFinance)**: A personal finance tracker designed to help you easily manage your budgets and expenses.
-- **[LogViewer](https://github.com/franmm7/LogViewer)**: A tool to simplify log management and monitoring for .NET applications.
+
+* 🔐 **\[LegalUp (Private)]**: A legal management platform for law firms, built with **Vue 3**, **.NET 8**, and **PostgreSQL**, using **clean architecture** and **multi-role identity management**.
+* 💸 **[QuickFinance](https://github.com/franmm7/QuickFinance)**: Personal finance tracker to manage budgets and expenses.
+* 🪵 **[LogViewer](https://github.com/franmm7/LogViewer)**: Tool for monitoring and managing logs in .NET applications.
+
+---
 
 ## 🚀 What I'm Working On:
-- 🔭 Currently enhancing the **QuickFinance** and **LogViewer** projects, with a focus on improving functionality and user experience.
-- 🌱 Re-learning and refining my skills in **Vue.js** and **.NET Core** while exploring other backend technologies like **Laravel** for comparisons.
+
+* 🧠 Exploring **AI integration** (ChatGPT & WhatsApp) for legal case automation.
+* 🏛️ Expanding **LegalUp** with freemium features, client dashboards, and operation limits.
+* 📦 Standardizing message-driven workflows with **shared ESB libraries** across .NET services.
+* 🔍 Improving **unit testing** coverage and architecture documentation for all projects.
+
+---
 
 ## 🤝 Let's Collaborate:
-- 👯 I’m open to collaborating on **full-stack projects**, especially those involving **C#/.NET** or **JavaScript frameworks**.
-- 🤔 I’m seeking help with **performance optimization** and **scaling** for both front-end and back-end applications.
+
+* 💻 I’m open to **freelance**, **open-source**, or **startup** projects that involve:
+
+  * Scalable **.NET APIs**
+  * Modern **Vue/React UIs**
+  * Secure **cloud integrations**
+* 🚀 I enjoy mentoring and collaborating on **clean code**, **project architecture**, and **scalable systems**.
+
+---
 
 ## ⚡ Fun Facts:
-- ⚡ I'm a geek at heart! I love diving into **science**, **politics**, and various other topics that broaden my understanding of the world.
-- 🎬 In my downtime, I enjoy watching **movies**, **TV shows**, **anime**, and **YouTube channels**—anything with a **good story** grabs my attention.
-- 💻 As a hobby, I like exploring **Laravel** to compare it with **.NET Core** as a backend framework, constantly learning how different ecosystems approach similar problems.
+
+* 🎓 I'm a continuous learner—currently diving deeper into **Azure messaging**, **AI workflows**, and **legal tech productization**.
+* 📚 I love topics like **science**, **economics**, and **political systems**—tech is just one of my passions.
+* 🎬 In my spare time, you'll find me enjoying **anime**, **thrillers**, and **educational YouTube rabbit holes**.
+
+---
 
 ## 📫 Get in Touch:
-- [LinkedIn]([mejiafrancised/](https://www.linkedin.com/in/mejiafrancised/?locale=en_US))
-- [Email](mailto:francis.mejiamd@gmail.com)
 
+* 🌐 [LinkedIn](https://www.linkedin.com/in/mejiafrancised/?locale=en_US)
+* 📬 [Email](mailto:francis.mejiamd@gmail.com)
+* 🧑‍💻 [GitHub](https://github.com/franmm7)
+
+---
