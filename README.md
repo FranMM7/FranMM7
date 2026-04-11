@@ -1,88 +1,139 @@
 # Hey there, I'm Francis 👋
 
-I'm a passionate **full-stack software developer** with a strong focus on **.NET**, **Vue.js**, and **React**. I specialize in building **scalable**, **efficient**, and **user-centric** applications, applying clean architecture and modern development practices across the stack.
+## Senior Full-Stack Engineer | Cloud • AI Integration • Scalable Systems
+
+I build **real-world systems** — not just apps.  
+From **enterprise backend architectures** to **AI-powered workflows**, I focus on delivering **scalable, maintainable, and business-driven solutions**.
+
+Over the past **10+ years**, I’ve evolved from working with **databases and desktop systems** to designing **cloud-native platforms, SaaS products, and AI integrations**.
 
 ---
 
-## 🔧 Technologies & Tools:
+## 🧠 What I Do Best
 
-### 🖥 Backend:
-
-* **C#, ASP.NET Core (7/8)**, **Azure Functions**
-* **Entity Framework Core**, **Dapper**
-* **Clean Architecture**, **Domain-Driven Design**
-* **REST APIs**, **OAuth 2.0**, **Azure AD (SSO)**
-
-### 🌐 Frontend:
-
-* **Vue 3 + Pinia + TypeScript**
-* **React + Next.js + Tailwind CSS**
-* **TanStack Table**, **AG Grid**
-* **Framer Motion**, **Font Awesome**, **Heroicons**
-
-### 🗃 Databases:
-
-* **PostgreSQL**, **MSSQL**, **MySQL**
-* **EF Migrations**, **SQL Query Optimization**
-
-### 🛠 Tools & Ecosystem:
-
-* **Azure DevOps**, **GitHub**, **CI/CD**
-* **Docker**, **Postman**, **MSAL**, **Make.com**
-* **Visual Studio**, **VS Code**
+- Design and build **end-to-end systems** (frontend + backend + data + cloud)
+- Integrate **AI (LLMs)** into real workflows (not just demos)
+- Optimize **SQL and data pipelines** for performance and scalability
+- Build **clean, maintainable architectures**
+- Deliver solutions in **high-pressure, production environments**
 
 ---
 
-## ⚙️ Specialized Knowledge:
+## 🔧 Technologies & Tools
 
-* Experienced in **Clean Architecture** and **microservices** for enterprise-grade apps.
-* Strong skills in **data transformation**, **ESB integrations**, and **message-driven architectures** using **Azure Service Bus**.
-* Built legal tech and healthcare tools involving **role-based access**, **document tracking**, and **smart automation**.
-* Advanced use of **AG Grid** and **TanStack Table** with pagination, sorting, and server-side filtering.
-* Experience integrating third-party APIs like **Salesforce**, **DrChrono**, and **WhatsApp** bots.
+### 🖥 Backend
+- C#, .NET 6/7/8, ASP.NET Core, Azure Functions  
+- Entity Framework Core, Dapper  
+- Clean Architecture, Domain-Driven Design  
+- REST APIs, OAuth 2.0, Azure AD (SSO)  
 
----
+### 🌐 Frontend
+- Vue 3 + Pinia + TypeScript  
+- React + Next.js + Tailwind CSS  
+- TanStack Table, AG Grid  
+- Framer Motion, Heroicons, Font Awesome  
 
-## 🌟 Featured Projects:
+### 🗃 Databases
+- SQL Server, PostgreSQL, MySQL  
+- Query optimization, indexing, execution plans  
+- ETL pipelines and data transformation  
 
-* 🔐 **\[LegalUp (Private)]**: A legal management platform for law firms, built with **Vue 3**, **.NET 8**, and **PostgreSQL**, using **clean architecture** and **multi-role identity management**.
-* 💸 **[QuickFinance](https://github.com/franmm7/QuickFinance)**: Personal finance tracker to manage budgets and expenses.
-* 🪵 **[LogViewer](https://github.com/franmm7/LogViewer)**: Tool for monitoring and managing logs in .NET applications.
+### ☁️ Cloud & DevOps
+- Azure (Functions, Service Bus, Storage)  
+- GitHub Actions, Azure DevOps  
+- CI/CD pipelines, Docker  
 
----
-
-## 🚀 What I'm Working On:
-
-* 🧠 Exploring **AI integration** (ChatGPT & WhatsApp) for legal case automation.
-* 🏛️ Expanding **LegalUp** with freemium features, client dashboards, and operation limits.
-* 📦 Standardizing message-driven workflows with **shared ESB libraries** across .NET services.
-* 🔍 Improving **unit testing** coverage and architecture documentation for all projects.
-
----
-
-## 🤝 Let's Collaborate:
-
-* 💻 I’m open to **freelance**, **open-source**, or **startup** projects that involve:
-
-  * Scalable **.NET APIs**
-  * Modern **Vue/React UIs**
-  * Secure **cloud integrations**
-* 🚀 I enjoy mentoring and collaborating on **clean code**, **project architecture**, and **scalable systems**.
+### 🤖 AI & Automation
+- Azure AI / OpenAI integration  
+- Make.com, Power Automate  
+- Email parsing, structured data extraction  
+- AI-assisted backend workflows  
 
 ---
 
-## ⚡ Fun Facts:
+## ⚙️ Specialized Experience
 
-* 🎓 I'm a continuous learner—currently diving deeper into **Azure messaging**, **AI workflows**, and **legal tech productization**.
-* 📚 I love topics like **science**, **economics**, and **political systems**—tech is just one of my passions.
-* 🎬 In my spare time, you'll find me enjoying **anime**, **thrillers**, and **educational YouTube rabbit holes**.
+- Built **message-driven architectures** using Azure Service Bus  
+- Experience with **ESB integrations and enterprise systems**  
+- Developed **dynamic reporting systems (DevExpress, SSRS)** without redeployment  
+- Designed systems with:
+  - Role-based access  
+  - Document workflows  
+  - Audit tracking  
+- Integrated external platforms such as:
+  - Salesforce-like ecosystems  
+  - Healthcare systems  
+  - Third-party APIs and automation tools  
 
 ---
 
-## 📫 Get in Touch:
+## 🌟 Featured Projects
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/mejiafrancised/?locale=en_US)
-* 📬 [Email](mailto:francis.mejiamd@gmail.com)
-* 🧑‍💻 [GitHub](https://github.com/franmm7)
+### 🏛️ LegalUp / Lex-Base
+🔗 https://www.lex-base.com  
+
+- .NET 8 (Clean Architecture) + Vue 3 (Feature-Based Architecture)  
+- Multi-role SaaS platform (lawyers, clients, assistants)  
+- Case management, document workflows, scalable modular design  
 
 ---
+
+### 🏢 Inmovs (Real Estate Platform)
+🔗 https://inmovs-main-ubv3vw.free.laravel.cloud (Pre-release)
+
+- Laravel + PostgreSQL + Vue  
+- Admin dashboards, property workflows  
+- SEO-oriented structure for startup growth  
+
+---
+
+### 🪵 Log Viewer (Internal Tool)
+🔗 https://vercel.com/franmm7s-projects/log-viewer  
+
+- React-based system for log visualization  
+- Improves debugging and monitoring workflows  
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 🧠 Integrating **AI into production workflows** (.NET + Azure AI)  
+- 🏛️ Scaling **LegalUp** as a SaaS platform  
+- 🔍 Improving **testing strategies and system reliability**  
+- ⚙️ Designing systems focused on scalability and maintainability  
+
+---
+
+## 🤝 Let’s Build Something
+
+I’m open to:
+
+- Freelance / consulting opportunities  
+- Remote engineering roles  
+- SaaS and startup collaborations  
+
+Interested in:
+
+- Scalable .NET backend systems  
+- Modern Vue / React applications  
+- AI-powered platforms  
+- Cloud-native architectures  
+
+---
+
+## ⚡ About Me
+
+- I approach development as **problem-solving, not just coding**  
+- Strong focus on **understanding systems deeply**  
+- Interested in:
+  - AI and emerging technologies  
+  - Economics and systems thinking  
+  - Product strategy  
+
+---
+
+## 📫 Contact
+
+- 🌐 LinkedIn: https://www.linkedin.com/in/francis-mejia-dev  
+- 📬 Email: francis.mejiamd@gmail.com  
+- 💻 GitHub: https://github.com/franmm7  
